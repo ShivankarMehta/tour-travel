@@ -11,17 +11,17 @@ const Trip = () => {
         <p>You can discover unique destinations using Google Maps.</p>
         <div className="trip-card">
             <TripData
-            image={Trip1}
+            propimg={Trip1}
             heading="Trip in Indonesia"
             text="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque porro veritatis sequi magnam eum itaque vero, possimus aliquid labore."
             />
             <TripData
-            image={Trip2}
+            propimg={Trip2}
             heading="Trip in Indonesia"
             text="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque porro veritatis sequi magnam eum itaque vero, possimus aliquid labore."
             />
             <TripData
-            image={Trip3}
+            propimg={Trip3}
             heading="Trip in Indonesia"
             text="Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloremque porro veritatis sequi magnam eum itaque vero, possimus aliquid labore."
             />
